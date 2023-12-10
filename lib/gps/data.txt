@@ -1,0 +1,1013 @@
+Lat: 10.800943,Lng: 106.665558
+Location: 
+Lat: 10.800943,Lng: 106.665558
+Location: 
+Lat: 10.800943,Lng: 106.665558
+Location: 
+Lat: 10.800942,Lng: 106.665558
+Location: 
+Lat: 10.800942,Lng: 106.665558
+Location: 
+Lat: 10.800942,Lng: 106.665558
+Location: 
+Lat: 10.800942,Lng: 106.665558
+Location: 
+Lat: 10.800942,Lng: 106.665558
+Location: 
+Lat: 10.800942,Lng: 106.665558
+Location: 
+Lat: 10.800942,Lng: 106.665558
+Location: 
+Lat: 10.800942,Lng: 106.665558
+Location: 
+Lat: 10.800942,Lng: 106.665558
+Location: 
+Lat: 10.800941,Lng: 106.665557
+Location: 
+Lat: 10.800941,Lng: 106.665557
+Location: 
+Lat: 10.800941,Lng: 106.665557
+Location: 
+Lat: 10.800941,Lng: 106.665557
+Location: 
+Lat: 10.800941,Lng: 106.665557
+Location: 
+Lat: 10.800941,Lng: 106.665557
+Location: 
+Lat: 10.800941,Lng: 106.665557
+Location: 
+Lat: 10.800941,Lng: 106.665557
+Location: 
+Lat: 10.800941,Lng: 106.665557
+Location: 
+Lat: 10.800940,Lng: 106.665556
+Location: 
+Lat: 10.800940,Lng: 106.665556
+Location: 
+Lat: 10.800940,Lng: 106.665556
+Location: 
+Lat: 10.800940,Lng: 106.665556
+Location: 
+Lat: 10.800940,Lng: 106.665556
+Location: 
+Lat: 10.800940,Lng: 106.665556
+Location: 
+Lat: 10.800940,Lng: 106.665556
+Location: 
+Lat: 10.800940,Lng: 106.665556
+Location: 
+Lat: 10.800940,Lng: 106.665556
+Location: 
+Lat: 10.800940,Lng: 106.665555
+Location: 
+Lat: 10.800940,Lng: 106.665555
+Location: 
+Lat: 10.800940,Lng: 106.665555
+Location: 
+Lat: 10.800940,Lng: 106.665555
+Location: 
+Lat: 10.800940,Lng: 106.665555
+Location: 
+Lat: 10.800940,Lng: 106.665555
+Location: 
+Lat: 10.800940,Lng: 106.665555
+Location: 
+Lat: 10.800940,Lng: 106.665555
+Location: 
+Lat: 10.800940,Lng: 106.665555
+Location: 
+Lat: 10.800940,Lng: 106.665555
+Location: 
+Lat: 10.800940,Lng: 106.665555
+Location: 
+Lat: 10.800940,Lng: 106.665555
+Location: 
+Lat: 10.800940,Lng: 106.665555
+Location: 
+Lat: 10.800940,Lng: 106.665555
+Location: 
+Lat: 10.800940,Lng: 106.665555
+Location: 
+Lat: 10.800940,Lng: 106.665555
+Location: 
+Lat: 10.800940,Lng: 106.665555
+Location: 
+Lat: 10.800940,Lng: 106.665555
+Location: 
+Lat: 10.800939,Lng: 106.665554
+Location: 
+Lat: 10.800939,Lng: 106.665554
+Location: 
+Lat: 10.800939,Lng: 106.665554
+Location: 
+Lat: 10.800939,Lng: 106.665554
+Location: 
+Lat: 10.800939,Lng: 106.665554
+Location: 
+Lat: 10.800939,Lng: 106.665554
+Location: 
+Lat: 10.800939,Lng: 106.665554
+Location: 
+Lat: 10.800939,Lng: 106.665554
+Location: 
+Lat: 10.800939,Lng: 106.665554
+Location: 
+Lat: 10.800937,Lng: 106.665554
+Location: 
+Lat: 10.800937,Lng: 106.665554
+Location: 
+Lat: 10.800937,Lng: 106.665554
+Location: 
+Lat: 10.800937,Lng: 106.665554
+Location: 
+Lat: 10.800937,Lng: 106.665554
+Location: 
+Lat: 10.800937,Lng: 106.665554
+Location: 
+Lat: 10.800937,Lng: 106.665554
+Location: 
+Lat: 10.800937,Lng: 106.665554
+Location: 
+Lat: 10.800937,Lng: 106.665554
+Location: 
+Lat: 10.800937,Lng: 106.665554
+Location: 
+Lat: 10.800937,Lng: 106.665554
+Location: 
+Lat: 10.800937,Lng: 106.665554
+Location: 
+Lat: 10.800937,Lng: 106.665554
+Location: 
+Lat: 10.800937,Lng: 106.665554
+Location: 
+Lat: 10.800937,Lng: 106.665554
+Location: 
+Lat: 10.800937,Lng: 106.665554
+Location: 
+Lat: 10.800937,Lng: 106.665554
+Location: 
+Lat: 10.800937,Lng: 106.665554
+Location: 
+Lat: 10.800936,Lng: 106.665553
+Location: 
+Lat: 10.800936,Lng: 106.665553
+Location: 
+Lat: 10.800936,Lng: 106.665553
+Location: 
+Lat: 10.800936,Lng: 106.665553
+Location: 
+Lat: 10.800936,Lng: 106.665553
+Location: 
+Lat: 10.800936,Lng: 106.665553
+Location: 
+Lat: 10.800936,Lng: 106.665553
+Location: 
+Lat: 10.800936,Lng: 106.665553
+Location: 
+Lat: 10.800936,Lng: 106.665553
+Location: 
+Lat: 10.800935,Lng: 106.665553
+Location: 
+Lat: 10.800935,Lng: 106.665553
+Location: 
+Lat: 10.800935,Lng: 106.665553
+Location: 
+Lat: 10.800935,Lng: 106.665553
+Location: 
+Lat: 10.800935,Lng: 106.665553
+Location: 
+Lat: 10.800935,Lng: 106.665553
+Location: 
+Lat: 10.800935,Lng: 106.665553
+Location: 
+Lat: 10.800935,Lng: 106.665553
+Location: 
+Lat: 10.800935,Lng: 106.665553
+Location: 
+Lat: 10.800934,Lng: 106.665552
+Location: 
+Lat: 10.800934,Lng: 106.665552
+Location: 
+Lat: 10.800934,Lng: 106.665552
+Location: 
+Lat: 10.800934,Lng: 106.665552
+Location: 
+Lat: 10.800934,Lng: 106.665552
+Location: 
+Lat: 10.800934,Lng: 106.665552
+Location: 
+Lat: 10.800934,Lng: 106.665552
+Location: 
+Lat: 10.800934,Lng: 106.665552
+Location: 
+Lat: 10.800934,Lng: 106.665552
+Location: 
+Lat: 10.800933,Lng: 106.665551
+Location: 
+Lat: 10.800933,Lng: 106.665551
+Location: 
+Lat: 10.800933,Lng: 106.665551
+Location: 
+Lat: 10.800933,Lng: 106.665551
+Location: 
+Lat: 10.800933,Lng: 106.665551
+Location: 
+Lat: 10.800933,Lng: 106.665551
+Location: 
+Lat: 10.800933,Lng: 106.665551
+Location: 
+Lat: 10.800933,Lng: 106.665551
+Location: 
+Lat: 10.800933,Lng: 106.665551
+Location: 
+Lat: 10.800933,Lng: 106.665551
+Location: 
+Lat: 10.800933,Lng: 106.665551
+Location: 
+Lat: 10.800933,Lng: 106.665551
+Location: 
+Lat: 10.800933,Lng: 106.665551
+Location: 
+Lat: 10.800933,Lng: 106.665551
+Location: 
+Lat: 10.800933,Lng: 106.665551
+Location: 
+Lat: 10.800933,Lng: 106.665551
+Location: 
+Lat: 10.800933,Lng: 106.665551
+Location: 
+Lat: 10.800933,Lng: 106.665551
+Location: 
+Lat: 10.800932,Lng: 106.665550
+Location: 
+Lat: 10.800932,Lng: 106.665550
+Location: 
+Lat: 10.800932,Lng: 106.665550
+Location: 
+Lat: 10.800932,Lng: 106.665550
+Location: 
+Lat: 10.800932,Lng: 106.665550
+Location: 
+Lat: 10.800932,Lng: 106.665550
+Location: 
+Lat: 10.800932,Lng: 106.665550
+Location: 
+Lat: 10.800932,Lng: 106.665550
+Location: 
+Lat: 10.800932,Lng: 106.665550
+Location: 
+Lat: 10.800931,Lng: 106.665549
+Location: 
+Lat: 10.800931,Lng: 106.665549
+Location: 
+Lat: 10.800931,Lng: 106.665549
+Location: 
+Lat: 10.800931,Lng: 106.665549
+Location: 
+Lat: 10.800931,Lng: 106.665549
+Location: 
+Lat: 10.800931,Lng: 106.665549
+Location: 
+Lat: 10.800931,Lng: 106.665549
+Location: 
+Lat: 10.800931,Lng: 106.665549
+Location: 
+Lat: 10.800931,Lng: 106.665549
+Location: 
+Lat: 10.800929,Lng: 106.665548
+Location: 
+Lat: 10.800929,Lng: 106.665548
+Location: 
+Lat: 10.800929,Lng: 106.665548
+Location: 
+Lat: 10.800929,Lng: 106.665548
+Location: 
+Lat: 10.800929,Lng: 106.665548
+Location: 
+Lat: 10.800929,Lng: 106.665548
+Location: 
+Lat: 10.800929,Lng: 106.665548
+Location: 
+Lat: 10.800929,Lng: 106.665548
+Location: 
+Lat: 10.800929,Lng: 106.665548
+Location: 
+Lat: 10.800928,Lng: 106.665548
+Location: 
+Lat: 10.800928,Lng: 106.665548
+Location: 
+Lat: 10.800928,Lng: 106.665548
+Location: 
+Lat: 10.800928,Lng: 106.665548
+Location: 
+Lat: 10.800928,Lng: 106.665548
+Location: 
+Lat: 10.800928,Lng: 106.665548
+Location: 
+Lat: 10.800928,Lng: 106.665548
+Location: 
+Lat: 10.800928,Lng: 106.665548
+Location: 
+Lat: 10.800928,Lng: 106.665548
+Location: 
+Lat: 10.800928,Lng: 106.665548
+Location: 
+Lat: 10.800928,Lng: 106.665548
+Location: 
+Lat: 10.800928,Lng: 106.665548
+Location: 
+Lat: 10.800928,Lng: 106.665548
+Location: 
+Lat: 10.800928,Lng: 106.665548
+Location: 
+Lat: 10.800928,Lng: 106.665548
+Location: 
+Lat: 10.800928,Lng: 106.665548
+Location: 
+Lat: 10.800928,Lng: 106.665548
+Location: 
+Lat: 10.800928,Lng: 106.665548
+Location: 
+Lat: 10.800928,Lng: 106.665547
+Location: 
+Lat: 10.800928,Lng: 106.665547
+Location: 
+Lat: 10.800928,Lng: 106.665547
+Location: 
+Lat: 10.800928,Lng: 106.665547
+Location: 
+Lat: 10.800928,Lng: 106.665547
+Location: 
+Lat: 10.800928,Lng: 106.665547
+Location: 
+Lat: 10.800928,Lng: 106.665547
+Location: 
+Lat: 10.800928,Lng: 106.665547
+Location: 
+Lat: 10.800928,Lng: 106.665547
+Location: 
+Lat: 10.800927,Lng: 106.665547
+Location: 
+Lat: 10.800927,Lng: 106.665547
+Location: 
+Lat: 10.800927,Lng: 106.665547
+Location: 
+Lat: 10.800927,Lng: 106.665547
+Location: 
+Lat: 10.800927,Lng: 106.665547
+Location: 
+Lat: 10.800927,Lng: 106.665547
+Location: 
+Lat: 10.800927,Lng: 106.665547
+Location: 
+Lat: 10.800927,Lng: 106.665547
+Location: 
+Lat: 10.800927,Lng: 106.665547
+Location: 
+Lat: 10.800926,Lng: 106.665546
+Location: 
+Lat: 10.800926,Lng: 106.665546
+Location: 
+Lat: 10.800926,Lng: 106.665546
+Location: 
+Lat: 10.800926,Lng: 106.665546
+Location: 
+Lat: 10.800926,Lng: 106.665546
+Location: 
+Lat: 10.800926,Lng: 106.665546
+Location: 
+Lat: 10.800926,Lng: 106.665546
+Location: 
+Lat: 10.800926,Lng: 106.665546
+Location: 
+Lat: 10.800926,Lng: 106.665546
+Location: 
+Lat: 10.800926,Lng: 106.665545
+Location: 
+Lat: 10.800926,Lng: 106.665545
+Location: 
+Lat: 10.800926,Lng: 106.665545
+Location: 
+Lat: 10.800926,Lng: 106.665545
+Location: 
+Lat: 10.800926,Lng: 106.665545
+Location: 
+Lat: 10.800926,Lng: 106.665545
+Location: 
+Lat: 10.800926,Lng: 106.665545
+Location: 
+Lat: 10.800926,Lng: 106.665545
+Location: 
+Lat: 10.800926,Lng: 106.665545
+Location: 
+Lat: 10.800926,Lng: 106.665545
+Location: 
+Lat: 10.800926,Lng: 106.665545
+Location: 
+Lat: 10.800926,Lng: 106.665545
+Location: 
+Lat: 10.800926,Lng: 106.665545
+Location: 
+Lat: 10.800926,Lng: 106.665545
+Location: 
+Lat: 10.800926,Lng: 106.665545
+Location: 
+Lat: 10.800926,Lng: 106.665545
+Location: 
+Lat: 10.800926,Lng: 106.665545
+Location: 
+Lat: 10.800926,Lng: 106.665545
+Location: 
+Lat: 10.800924,Lng: 106.665545
+Location: 
+Lat: 10.800924,Lng: 106.665545
+Location: 
+Lat: 10.800924,Lng: 106.665545
+Location: 
+Lat: 10.800924,Lng: 106.665545
+Location: 
+Lat: 10.800924,Lng: 106.665545
+Location: 
+Lat: 10.800924,Lng: 106.665545
+Location: 
+Lat: 10.800924,Lng: 106.665545
+Location: 
+Lat: 10.800924,Lng: 106.665545
+Location: 
+Lat: 10.800924,Lng: 106.665545
+Location: 
+Lat: 10.800924,Lng: 106.665545
+Location: 
+Lat: 10.800924,Lng: 106.665545
+Location: 
+Lat: 10.800924,Lng: 106.665545
+Location: 
+Lat: 10.800924,Lng: 106.665545
+Location: 
+Lat: 10.800924,Lng: 106.665545
+Location: 
+Lat: 10.800924,Lng: 106.665545
+Location: 
+Lat: 10.800924,Lng: 106.665545
+Location: 
+Lat: 10.800924,Lng: 106.665545
+Location: 
+Lat: 10.800924,Lng: 106.665545
+Location: 
+Lat: 10.800924,Lng: 106.665546
+Location: 
+Lat: 10.800924,Lng: 106.665546
+Location: 
+Lat: 10.800924,Lng: 106.665546
+Location: 
+Lat: 10.800924,Lng: 106.665546
+Location: 
+Lat: 10.800924,Lng: 106.665546
+Location: 
+Lat: 10.800924,Lng: 106.665546
+Location: 
+Lat: 10.800924,Lng: 106.665546
+Location: 
+Lat: 10.800924,Lng: 106.665546
+Location: 
+Lat: 10.800924,Lng: 106.665546
+Location: 
+Lat: 10.800923,Lng: 106.665545
+Location: 
+Lat: 10.800923,Lng: 106.665545
+Location: 
+Lat: 10.800923,Lng: 106.665545
+Location: 
+Lat: 10.800923,Lng: 106.665545
+Location: 
+Lat: 10.800923,Lng: 106.665545
+Location: 
+Lat: 10.800923,Lng: 106.665545
+Location: 
+Lat: 10.800923,Lng: 106.665545
+Location: 
+Lat: 10.800923,Lng: 106.665545
+Location: 
+Lat: 10.800923,Lng: 106.665545
+Location: 
+Lat: 10.800922,Lng: 106.665545
+Location: 
+Lat: 10.800922,Lng: 106.665545
+Location: 
+Lat: 10.800922,Lng: 106.665545
+Location: 
+Lat: 10.800922,Lng: 106.665545
+Location: 
+Lat: 10.800922,Lng: 106.665545
+Location: 
+Lat: 10.800922,Lng: 106.665545
+Location: 
+Lat: 10.800922,Lng: 106.665545
+Location: 
+Lat: 10.800922,Lng: 106.665545
+Location: 
+Lat: 10.800922,Lng: 106.665545
+Location: 
+Lat: 10.800921,Lng: 106.665544
+Location: 
+Lat: 10.800921,Lng: 106.665544
+Location: 
+Lat: 10.800921,Lng: 106.665544
+Location: 
+Lat: 10.800921,Lng: 106.665544
+Location: 
+Lat: 10.800921,Lng: 106.665544
+Location: 
+Lat: 10.800921,Lng: 106.665544
+Location: 
+Lat: 10.800921,Lng: 106.665544
+Location: 
+Lat: 10.800921,Lng: 106.665544
+Location: 
+Lat: 10.800921,Lng: 106.665544
+Location: 
+Lat: 10.800920,Lng: 106.665544
+Location: 
+Lat: 10.800920,Lng: 106.665544
+Location: 
+Lat: 10.800920,Lng: 106.665544
+Location: 
+Lat: 10.800920,Lng: 106.665544
+Location: 
+Lat: 10.800920,Lng: 106.665544
+Location: 
+Lat: 10.800920,Lng: 106.665544
+Location: 
+Lat: 10.800920,Lng: 106.665544
+Location: 
+Lat: 10.800920,Lng: 106.665544
+Location: 
+Lat: 10.800920,Lng: 106.665544
+Location: 
+Lat: 10.800920,Lng: 106.665545
+Location: 
+Lat: 10.800920,Lng: 106.665545
+Location: 
+Lat: 10.800920,Lng: 106.665545
+Location: 
+Lat: 10.800920,Lng: 106.665545
+Location: 
+Lat: 10.800920,Lng: 106.665545
+Location: 
+Lat: 10.800920,Lng: 106.665545
+Location: 
+Lat: 10.800920,Lng: 106.665545
+Location: 
+Lat: 10.800920,Lng: 106.665545
+Location: 
+Lat: 10.800920,Lng: 106.665545
+Location: 
+Lat: 10.800919,Lng: 106.665545
+Location: 
+Lat: 10.800919,Lng: 106.665545
+Location: 
+Lat: 10.800919,Lng: 106.665545
+Location: 
+Lat: 10.800919,Lng: 106.665545
+Location: 
+Lat: 10.800919,Lng: 106.665545
+Location: 
+Lat: 10.800919,Lng: 106.665545
+Location: 
+Lat: 10.800919,Lng: 106.665545
+Location: 
+Lat: 10.800919,Lng: 106.665545
+Location: 
+Lat: 10.800919,Lng: 106.665545
+Location: 
+Lat: 10.800919,Lng: 106.665544
+Location: 
+Lat: 10.800919,Lng: 106.665544
+Location: 
+Lat: 10.800919,Lng: 106.665544
+Location: 
+Lat: 10.800919,Lng: 106.665544
+Location: 
+Lat: 10.800919,Lng: 106.665544
+Location: 
+Lat: 10.800919,Lng: 106.665544
+Location: 
+Lat: 10.800919,Lng: 106.665544
+Location: 
+Lat: 10.800919,Lng: 106.665544
+Location: 
+Lat: 10.800919,Lng: 106.665544
+Location: 
+Lat: 10.800918,Lng: 106.665544
+Location: 
+Lat: 10.800918,Lng: 106.665544
+Location: 
+Lat: 10.800918,Lng: 106.665544
+Location: 
+Lat: 10.800918,Lng: 106.665544
+Location: 
+Lat: 10.800918,Lng: 106.665544
+Location: 
+Lat: 10.800918,Lng: 106.665544
+Location: 
+Lat: 10.800918,Lng: 106.665544
+Location: 
+Lat: 10.800918,Lng: 106.665544
+Location: 
+Lat: 10.800918,Lng: 106.665544
+Location: 
+Lat: 10.800919,Lng: 106.665545
+Location: 
+Lat: 10.800919,Lng: 106.665545
+Location: 
+Lat: 10.800919,Lng: 106.665545
+Location: 
+Lat: 10.800919,Lng: 106.665545
+Location: 
+Lat: 10.800919,Lng: 106.665545
+Location: 
+Lat: 10.800919,Lng: 106.665545
+Location: 
+Lat: 10.800919,Lng: 106.665545
+Location: 
+Lat: 10.800919,Lng: 106.665545
+Location: 
+Lat: 10.800919,Lng: 106.665545
+Location: 
+Lat: 10.800919,Lng: 106.665546
+Location: 
+Lat: 10.800919,Lng: 106.665546
+Location: 
+Lat: 10.800919,Lng: 106.665546
+Location: 
+Lat: 10.800919,Lng: 106.665546
+Location: 
+Lat: 10.800919,Lng: 106.665546
+Location: 
+Lat: 10.800919,Lng: 106.665546
+Location: 
+Lat: 10.800919,Lng: 106.665546
+Location: 
+Lat: 10.800919,Lng: 106.665546
+Location: 
+Lat: 10.800919,Lng: 106.665546
+Location: 
+Lat: 10.800919,Lng: 106.665546
+Location: 
+Lat: 10.800919,Lng: 106.665546
+Location: 
+Lat: 10.800919,Lng: 106.665546
+Location: 
+Lat: 10.800919,Lng: 106.665546
+Location: 
+Lat: 10.800919,Lng: 106.665546
+Location: 
+Lat: 10.800919,Lng: 106.665546
+Location: 
+Lat: 10.800919,Lng: 106.665546
+Location: 
+Lat: 10.800919,Lng: 106.665546
+Location: 
+Lat: 10.800919,Lng: 106.665546
+Location: 
+Lat: 10.800919,Lng: 106.665545
+Location: 
+Lat: 10.800919,Lng: 106.665545
+Location: 
+Lat: 10.800919,Lng: 106.665545
+Location: 
+Lat: 10.800919,Lng: 106.665545
+Location: 
+Lat: 10.800919,Lng: 106.665545
+Location: 
+Lat: 10.800919,Lng: 106.665545
+Location: 
+Lat: 10.800919,Lng: 106.665545
+Location: 
+Lat: 10.800919,Lng: 106.665545
+Location: 
+Lat: 10.800919,Lng: 106.665545
+Location: 
+Lat: 10.800918,Lng: 106.665545
+Location: 
+Lat: 10.800918,Lng: 106.665545
+Location: 
+Lat: 10.800918,Lng: 106.665545
+Location: 
+Lat: 10.800918,Lng: 106.665545
+Location: 
+Lat: 10.800918,Lng: 106.665545
+Location: 
+Lat: 10.800918,Lng: 106.665545
+Location: 
+Lat: 10.800918,Lng: 106.665545
+Location: 
+Lat: 10.800918,Lng: 106.665545
+Location: 
+Lat: 10.800918,Lng: 106.665545
+Location: 
+Lat: 10.800918,Lng: 106.665545
+Location: 
+Lat: 10.800918,Lng: 106.665545
+Location: 
+Lat: 10.800918,Lng: 106.665545
+Location: 
+Lat: 10.800918,Lng: 106.665545
+Location: 
+Lat: 10.800918,Lng: 106.665545
+Location: 
+Lat: 10.800918,Lng: 106.665545
+Location: 
+Lat: 10.800918,Lng: 106.665545
+Location: 
+Lat: 10.800918,Lng: 106.665545
+Location: 
+Lat: 10.800918,Lng: 106.665545
+Location: 
+Lat: 10.800919,Lng: 106.665546
+Location: 
+Lat: 10.800919,Lng: 106.665546
+Location: 
+Lat: 10.800919,Lng: 106.665546
+Location: 
+Lat: 10.800919,Lng: 106.665546
+Location: 
+Lat: 10.800919,Lng: 106.665546
+Location: 
+Lat: 10.800919,Lng: 106.665546
+Location: 
+Lat: 10.800919,Lng: 106.665546
+Location: 
+Lat: 10.800919,Lng: 106.665546
+Location: 
+Lat: 10.800919,Lng: 106.665546
+Location: 
+Lat: 10.800919,Lng: 106.665547
+Location: 
+Lat: 10.800919,Lng: 106.665547
+Location: 
+Lat: 10.800919,Lng: 106.665547
+Location: 
+Lat: 10.800919,Lng: 106.665547
+Location: 
+Lat: 10.800919,Lng: 106.665547
+Location: 
+Lat: 10.800919,Lng: 106.665547
+Location: 
+Lat: 10.800919,Lng: 106.665547
+Location: 
+Lat: 10.800919,Lng: 106.665547
+Location: 
+Lat: 10.800919,Lng: 106.665547
+Location: 
+Lat: 10.800920,Lng: 106.665547
+Location: 
+Lat: 10.800920,Lng: 106.665547
+Location: 
+Lat: 10.800920,Lng: 106.665547
+Location: 
+Lat: 10.800920,Lng: 106.665547
+Location: 
+Lat: 10.800920,Lng: 106.665547
+Location: 
+Lat: 10.800920,Lng: 106.665547
+Location: 
+Lat: 10.800920,Lng: 106.665547
+Location: 
+Lat: 10.800920,Lng: 106.665547
+Location: 
+Lat: 10.800920,Lng: 106.665547
+Location: 
+Lat: 10.800919,Lng: 106.665547
+Location: 
+Lat: 10.800919,Lng: 106.665547
+Location: 
+Lat: 10.800919,Lng: 106.665547
+Location: 
+Lat: 10.800919,Lng: 106.665547
+Location: 
+Lat: 10.800919,Lng: 106.665547
+Location: 
+Lat: 10.800919,Lng: 106.665547
+Location: 
+Lat: 10.800919,Lng: 106.665547
+Location: 
+Lat: 10.800919,Lng: 106.665547
+Location: 
+Lat: 10.800919,Lng: 106.665547
+Location: 
+Lat: 10.800920,Lng: 106.665547
+Location: 
+Lat: 10.800920,Lng: 106.665547
+Location: 
+Lat: 10.800920,Lng: 106.665547
+Location: 
+Lat: 10.800920,Lng: 106.665547
+Location: 
+Lat: 10.800920,Lng: 106.665547
+Location: 
+Lat: 10.800920,Lng: 106.665547
+Location: 
+Lat: 10.800920,Lng: 106.665547
+Location: 
+Lat: 10.800920,Lng: 106.665547
+Location: 
+Lat: 10.800920,Lng: 106.665547
+Location: 
+Lat: 10.800919,Lng: 106.665548
+Location: 
+Lat: 10.800919,Lng: 106.665548
+Location: 
+Lat: 10.800919,Lng: 106.665548
+Location: 
+Lat: 10.800919,Lng: 106.665548
+Location: 
+Lat: 10.800919,Lng: 106.665548
+Location: 
+Lat: 10.800919,Lng: 106.665548
+Location: 
+Lat: 10.800919,Lng: 106.665548
+Location: 
+Lat: 10.800919,Lng: 106.665548
+Location: 
+Lat: 10.800919,Lng: 106.665548
+Location: 
+Lat: 10.800920,Lng: 106.665548
+Location: 
+Lat: 10.800920,Lng: 106.665548
+Location: 
+Lat: 10.800920,Lng: 106.665548
+Location: 
+Lat: 10.800920,Lng: 106.665548
+Location: 
+Lat: 10.800920,Lng: 106.665548
+Location: 
+Lat: 10.800920,Lng: 106.665548
+Location: 
+Lat: 10.800920,Lng: 106.665548
+Location: 
+Lat: 10.800920,Lng: 106.665548
+Location: 
+Lat: 10.800920,Lng: 106.665548
+Location: 
+Lat: 10.800920,Lng: 106.665549
+Location: 
+Lat: 10.800920,Lng: 106.665549
+Location: 
+Lat: 10.800920,Lng: 106.665549
+Location: 
+Lat: 10.800920,Lng: 106.665549
+Location: 
+Lat: 10.800920,Lng: 106.665549
+Location: 
+Lat: 10.800920,Lng: 106.665549
+Location: 
+Lat: 10.800920,Lng: 106.665549
+Location: 
+Lat: 10.800920,Lng: 106.665549
+Location: 
+Lat: 10.800920,Lng: 106.665549
+Location: 
+Lat: 10.800920,Lng: 106.665549
+Location: 
+Lat: 10.800920,Lng: 106.665549
+Location: 
+Lat: 10.800920,Lng: 106.665549
+Location: 
+Lat: 10.800920,Lng: 106.665549
+Location: 
+Lat: 10.800920,Lng: 106.665549
+Location: 
+Lat: 10.800920,Lng: 106.665549
+Location: 
+Lat: 10.800920,Lng: 106.665549
+Location: 
+Lat: 10.800920,Lng: 106.665549
+Location: 
+Lat: 10.800920,Lng: 106.665549
+Location: 
+Lat: 10.800919,Lng: 106.665549
+Location: 
+Lat: 10.800919,Lng: 106.665549
+Location: 
+Lat: 10.800919,Lng: 106.665549
+Location: 
+Lat: 10.800919,Lng: 106.665549
+Location: 
+Lat: 10.800919,Lng: 106.665549
+Location: 
+Lat: 10.800919,Lng: 106.665549
+Location: 
+Lat: 10.800919,Lng: 106.665549
+Location: 
+Lat: 10.800919,Lng: 106.665549
+Location: 
+Lat: 10.800919,Lng: 106.665549
+Location: 
+Lat: 10.800920,Lng: 106.665550
+Location: 
+Lat: 10.800920,Lng: 106.665550
+Location: 
+Lat: 10.800920,Lng: 106.665550
+Location: 
+Lat: 10.800920,Lng: 106.665550
+Location: 
+Lat: 10.800920,Lng: 106.665550
+Location: 
+Lat: 10.800920,Lng: 106.665550
+Location: 
+Lat: 10.800920,Lng: 106.665550
+Location: 
+Lat: 10.800920,Lng: 106.665550
+Location: 
+Lat: 10.800920,Lng: 106.665550
+Location: 
+Lat: 10.800919,Lng: 106.665550
+Location: 
+Lat: 10.800919,Lng: 106.665550
+Location: 
+Lat: 10.800919,Lng: 106.665550
+Location: 
+Lat: 10.800919,Lng: 106.665550
+Location: 
+Lat: 10.800919,Lng: 106.665550
+Location: 
+Lat: 10.800919,Lng: 106.665550
+Location: 
+Lat: 10.800919,Lng: 106.665550
+Location: 
+Lat: 10.800919,Lng: 106.665550
+Location: 
+Lat: 10.800919,Lng: 106.665550
+Location: 
+Lat: 10.800919,Lng: 106.665550
+Location: 
+Lat: 10.800919,Lng: 106.665550
+Location: 
+Lat: 10.800919,Lng: 106.665550
+Location: 
+Lat: 10.800919,Lng: 106.665550
+Location: 
+Lat: 10.800919,Lng: 106.665550
+Location: 
+Lat: 10.800919,Lng: 106.665550
+Location: 
+Lat: 10.800919,Lng: 106.665550
+Location: 
+Lat: 10.800919,Lng: 106.665550
+Location: 
+Lat: 10.800919,Lng: 106.665550
+Location: 
+Lat: 10.800920,Lng: 106.665552
+Location: 
+Lat: 10.800920,Lng: 106.665552
+Location: 
+Lat: 10.800920,Lng: 106.665552
+Location: 
+Lat: 10.800920,Lng: 106.665552
+Location: 
+Lat: 10.800920,Lng: 106.665552
+Location: 
+Lat: 10.800920,Lng: 106.665552
+Location: 
+Lat: 10.800920,Lng: 106.665552
+Location: 
+Lat: 10.800920,Lng: 106.665552
+Location: 
+Lat: 10.800920,Lng: 106.665552
+Location: 
+Lat: 10.800920,Lng: 106.665552
+Location: 
+Lat: 10.800920,Lng: 106.665552
+Location: 
+Lat: 10.800920,Lng: 106.665552
+Location: 
+Lat: 10.800920,Lng: 106.665552
+Location: 
+Lat: 10.800920,Lng: 106.665552
+Location: 
+Lat: 10.800920,Lng: 106.665552
+Location: 
+Lat: 10.800920,Lng: 106.665552
+Location: 
+Lat: 10.800920,Lng: 106.665552
+Location: 
+Lat: 10.800920,Lng: 106.665552
+Location: 
+Lat: 10.800920,Lng: 106.665552
+Location: 
+Lat: 10.800920,Lng: 106.665552
+Location: 
+Lat: 10.800920,Lng: 106.665552
+Location: 
+Lat: 10.800920,Lng: 106.665552
+Location: 
+Lat: 10.800920,Lng: 106.665552
+Location: 
+Lat: 10.800920,Lng: 106.665552
+Location: 
+Lat: 10.800920,Lng: 106.665552
+Location: 
+Lat: 10.800920,Lng: 106.665552
+Location: 
+Lat: 10.800920,Lng: 106.665552
