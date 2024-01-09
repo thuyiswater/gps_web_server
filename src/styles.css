@@ -1,0 +1,22 @@
+body {
+    background-image: url('Drone-still-photogrpahy2.jpg'); 
+
+    background-size: cover;
+}
+
+h2 {
+    text-align: center;
+    margin-bottom: 50px;
+    margin-top: 50px;
+    font-size: 50px;
+    font-family: 'Poppin', sans-serif;
+}
+
+#myMap {
+    position: absolute; 
+    top: 50%; 
+    left: 50%; 
+    transform: translate(-50%, -50%); 
+    width: 600px; 
+    height: 400px;
+}
