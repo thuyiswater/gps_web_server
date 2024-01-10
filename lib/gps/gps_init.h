@@ -4,4 +4,4 @@
 void gps_setup();
 void displayLocation();
 
-#endif 
+#endif

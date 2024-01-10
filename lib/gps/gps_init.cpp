@@ -8,12 +8,11 @@
 #define GPS_TX_PIN 17
 
 TinyGPSPlus gps;
-const char* ssid = "cindy"; //ssid of your wifi
-const char* password = "sharingiscaring"; //password of your wifi
+const char* ssid = "Hieu Nguyn's Iphone"; //ssid of your wifi
+const char* password = "NLCH03022003LJ"; //password of your wifi
 String lat, lng;
 
 void gps_setup() {
-  Serial.begin(115200);
   Serial2.begin(9600, SERIAL_8N1, GPS_RX_PIN, GPS_TX_PIN);
   delay(3000);
   WiFiServer server(80);
