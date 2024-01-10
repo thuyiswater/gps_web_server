@@ -65,7 +65,7 @@ void displayLocation() {
       }
 
       // Google script Web_App_URL.
-      String Web_App_URL = "https://script.google.com/macros/s/AKfycbxLUGZN9K9sI74frTvSbUemLhrzcRhOVEKBopuQPCR8ATEpGsX-4DcX44dVuFx3KyXr/exec";
+      String Web_App_URL = "https://script.google.com/macros/s/AKfycbw7HZN0uAK_Xxk_eE7TzrthiXlo88Txi-V6nZ169JOAYM6pl17I4XMlJsrNNZSamv43/exec";
       // Create a URL for sending or writing data to Google Sheets.
       String Send_Data_URL = Web_App_URL + "?sts=write";
       Send_Data_URL += "&lat=" + lat;
